@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1476199444
+#1476300361
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -51,7 +51,6 @@ images/water-sheet0.png
 images/seaweed-sheet0.png
 images/pirateship-sheet0.png
 images/piratesail-sheet0.png
-images/treasurechest-sheet0.png
 images/cloudbackground.png
 images/spring-sheet0.png
 images/spring-sheet1.png
@@ -69,6 +68,7 @@ images/spikes-sheet0.png
 images/boo-sheet0.png
 images/boo-sheet1.png
 images/torch-sheet0.png
+images/treasurechest-sheet0.png
 media/doorslam.m4a
 media/doorslam.ogg
 media/gameover.m4a
