@@ -5,7 +5,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "Construct2",
       "projectGuid": "d89e5a7b-eda0-48e1-93ca-6ae27e21b958",
-      "lastModifiedDate": 1476379560711,
+      "lastModifiedDate": 1476394326220,
       "creationDate": 1476375906000
     },
     "sourceDirectory": "www",
@@ -171,7 +171,7 @@
         "cordovaCLIVersion_": "6.2.0",
         "crosswalkVersion_": "19",
         "appName_": "The Return of Chuck",
-        "appID_": "com.colestock.game.thereturnofchuck",
+        "appID_": "com.colestock.thereturnofchuck",
         "appAccess_": {
           "mode": "whitelist",
           "network": [
@@ -188,7 +188,7 @@
           ],
           "navigation": []
         },
-        "appVersion_": "1.0",
+        "appVersion_": "2.0",
         "appVersionCode_": "15",
         "icons_": [
           {
@@ -217,7 +217,7 @@
           }
         ],
         "splashes_": [],
-        "appDescription_": "A classically-inspired 2D platform-style game in which our hero, Chuck, strives to reunite with his long-lost alien love interest, Boo",
+        "appDescription_": "A classically-inspired 2D platform-style gameo",
         "appAuthor_": "James Colestock"
       },
       "iOS": {
